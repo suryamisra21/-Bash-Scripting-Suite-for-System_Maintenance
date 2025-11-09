@@ -31,6 +31,7 @@ Basic system administration permissions (sudo access for certain operations)
 Clone this repository:
 
 git clone https://github.com/suryamisra21/-Bash-Scripting-Suite-for-System_Maintenance.git
+
 cd bash-scripting-suite
 
 
@@ -46,6 +47,7 @@ Run the maintenance suite:
 🧑‍💻 Author
 
 Surya Misra
+
 Project developed as part of an academic and professional initiative to automate and enhance system maintenance using Bash scripting.
 
 🪪 License
