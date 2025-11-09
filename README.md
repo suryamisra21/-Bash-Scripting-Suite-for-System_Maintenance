@@ -1,4 +1,5 @@
 Bash Scripting Suite for System Maintenance
+
 📘 Overview
 
 The Bash Scripting Suite for System Maintenance is a collection of automated shell scripts designed to streamline essential system administration tasks. It provides an efficient way to monitor logs, manage updates, perform backups, and handle errors, ensuring smoother operation and better performance of Linux systems.
@@ -29,7 +30,7 @@ Basic system administration permissions (sudo access for certain operations)
 
 Clone this repository:
 
-git clone https://github.com/<your-username>/bash-scripting-suite.git
+git clone https://github.com/suryamisra21/-Bash-Scripting-Suite-for-System_Maintenance.git
 cd bash-scripting-suite
 
 
